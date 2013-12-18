@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 	<Description about="urn:mozilla:install-manifest">
-		<em:id>messagestyle-hipchat-messagestyle@addons.instantbird.org</em:id>
+		<em:id>messagestyle-hipchat-messagestyle@alexandersalas.name</em:id>
 		<em:unpack>true</em:unpack>
 		<em:name>HipChat MessageStyle</em:name>
 		<em:version>1.0</em:version>
-		<em:description>The message style of the group chat and IM built for teams at HipChat.</em:description>
+		<em:description>An Instantbird Message Style based on the HipChat theme.</em:description>
 		<em:creator>Alexander Salas</em:creator>
 		<em:translator>Fatma Youssef</em:translator>
 		<em:homepageURL>http://alexandersalas.name/</em:homepageURL>
