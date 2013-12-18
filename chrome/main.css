@@ -1172,7 +1172,7 @@ p.msgTextError {
     clear: left;
     color: #ABABAB;
     padding-left: 21px;
-    background: url('/img/chat/yield.png') no-repeat left center;
+    background: url(/skin/img/chat/yield.png) no-repeat left center;
 }
 
 #chats td.messageBlock p.msgTextError
