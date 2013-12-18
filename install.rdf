@@ -5,11 +5,13 @@
 
 <Description about="urn:mozilla:install-manifest">
  <em:id>messagestyle-hipchat@addons.instantbird.org</em:id>
+ <em:unpack>true</em:unpack>
  <em:name>HipChat</em:name>
  <em:version>1.0</em:version>
  <em:description>1.1</em:description>
  <em:creator>Alexander Salas</em:creator>
-
+	<em:iconURL>chrome://hipchat/skin/img/icon.png</em:iconURL>
+	<em:icon64URL>chrome://hipchat/skin/img/icon64.png</em:icon64URL>
 
  <em:targetApplication>
   <Description>

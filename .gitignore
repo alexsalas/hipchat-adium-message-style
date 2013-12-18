@@ -187,6 +187,12 @@ $RECYCLE.BIN/
 ## Python
 #############
 
+*.xpi
+
+#############
+## Python
+#############
+
 *.py[co]
 
 # Packages
